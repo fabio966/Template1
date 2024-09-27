@@ -58,7 +58,7 @@ img {
 
 .header-top {
     overflow: hidden;
-    background-color: #AC968A;
+    background-color: #0978ba;
 }
 
 .wel-come h4 {
@@ -184,7 +184,7 @@ img {
 }
 
 #navbar ul li a:hover {
-    color: #AC968A;
+    color: #0978ba;
 }
 
 #navbar ul li a::before {
@@ -194,7 +194,7 @@ img {
     position: absolute;
     content: '';
     height: 3px;
-    background: #AC968A;
+    background: #0978ba;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -406,7 +406,7 @@ figure.slider figure figcaption {
     text-align: center;
     padding: 10px;
     font-weight: bold;
-    background-color: #AC968A;
+    background-color: #0978ba;
     color: #fff;
     text-transform: uppercase;
 }

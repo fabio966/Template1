@@ -146,7 +146,7 @@ img {
 }
 
 .menu-container label {
-    background: #AC968A;
+    background: #0978ba;
     cursor: pointer;
     display: none;
     height: 35px;
@@ -387,7 +387,7 @@ figure.slider img {
 figure.slider figure figcaption {
     background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
     bottom: 0;
-    color: #fff;
+    color: #0978ba;
     font-size: 2rem;
     padding: 0.6rem;
     position: absolute;
@@ -667,8 +667,8 @@ section.tab-section {
 
 .sub-btn {
     border: 1px solid #AC968A;
-    background: #AC968A;
-    color: #fff;
+    background: #0978ba;
+    color: #0978ba;
     text-transform: uppercase !important;
     padding: 10px 20px;
     font-size: 14px;

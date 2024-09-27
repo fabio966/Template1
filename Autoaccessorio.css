@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     line-height: 1.6;
     font-family: 'Open Sans', sans-serif;
-    color: #0978ba;
+    color: #1a1a1a;
 }
 
 a,
@@ -45,7 +45,7 @@ img {
 }
 
 .fa-star {
-    color: #0978ba;
+    color: #FFD90A;
 }
 
 /*  ================================
@@ -58,7 +58,7 @@ img {
 
 .header-top {
     overflow: hidden;
-    background-color: #0978ba;
+    background-color: #AC968A;
 }
 
 .wel-come h4 {
@@ -146,7 +146,7 @@ img {
 }
 
 .menu-container label {
-    background: #0978ba;
+    background: #AC968A;
     cursor: pointer;
     display: none;
     height: 35px;
@@ -184,7 +184,7 @@ img {
 }
 
 #navbar ul li a:hover {
-    color: #0978ba;
+    color: #AC968A;
 }
 
 #navbar ul li a::before {
@@ -194,7 +194,7 @@ img {
     position: absolute;
     content: '';
     height: 3px;
-    background: #0978ba;
+    background: #AC968A;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -387,7 +387,7 @@ figure.slider img {
 figure.slider figure figcaption {
     background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
     bottom: 0;
-    color: #0978ba;
+    color: #fff;
     font-size: 2rem;
     padding: 0.6rem;
     position: absolute;
@@ -406,7 +406,7 @@ figure.slider figure figcaption {
     text-align: center;
     padding: 10px;
     font-weight: bold;
-    background-color: #0978ba;
+    background-color: #AC968A;
     color: #fff;
     text-transform: uppercase;
 }
@@ -667,8 +667,8 @@ section.tab-section {
 
 .sub-btn {
     border: 1px solid #AC968A;
-    background: #0978ba;
-    color: #0978ba;
+    background: #AC968A;
+    color: #fff;
     text-transform: uppercase !important;
     padding: 10px 20px;
     font-size: 14px;
